@@ -64,6 +64,14 @@ a:not([class]) {
   text-decoration-skip-ink: auto;
 }
 
+a{
+    text-decoration: none;
+}
+
+ul,ol{
+    list-style: none;
+}
+
 /* List reset */
 ul, ol {
   list-style: none;
