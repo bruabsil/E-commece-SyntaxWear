@@ -1,6 +1,6 @@
 .header {
   
-    position: fixed;
+    position: relative;
     top: 20px ;
     left: 50%;
     transform: translate(-50%);
@@ -18,7 +18,8 @@
 
 .logo img{
 
-    height: 40px;
+    height: 48px;
+
 
 
 }
