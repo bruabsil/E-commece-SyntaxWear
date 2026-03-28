@@ -1,7 +1,7 @@
 .hero-section{
-    background: url(../../images/bannes/93f6df06-b574-4d35-aa24-5a3cba776bae3.jpg)no-repeat;
+    background: url(../../images/bannes/93f6df06-b574-4d35-aa24-5a3cba776bae3.jpg)no-repeat center;
      background-size: cover;
-    height: 500px;
+    height: 600px;
     position: relative;
     
 }
