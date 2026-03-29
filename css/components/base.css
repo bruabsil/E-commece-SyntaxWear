@@ -3,7 +3,17 @@ body {
   color: #333333;
 
     
+}
 
+
+main {
+   padding: 2.5rem 2.5rem 0;
+
+    min-width: 1360px;
+    margin: 0 auto;
+
+}
+    
 
 
 .btn{
@@ -36,4 +46,3 @@ body {
     border-color: #6329A2;
 }
 
-}
