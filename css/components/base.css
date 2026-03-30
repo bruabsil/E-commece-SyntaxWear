@@ -7,7 +7,7 @@ body {
 
 
 main {
-   padding: 2.5rem 2.5rem 0;
+   padding: 2.5rem 0 2.5rem ;
 
     min-width: 1360px;
     margin: 0 auto;
@@ -44,5 +44,11 @@ main {
     background-color: #6329A2;
     color: #ffffffff;
     border-color: #6329A2;
+}
+
+.footer-copy{
+    font-size: 1.25rem ;
+    text-align: center;
+    padding: 20px 0;
 }
 
